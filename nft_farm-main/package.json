@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Nft farm app. Users stake mock dai tokens in exchange for points they can use to redeem nfts",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/contracts": "^5.0.2",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
